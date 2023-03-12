@@ -108,7 +108,7 @@ body {
   background-size: 100% 170%;
   width: 100%;
   background-repeat: no-repeat;
-  background-image: url("/img/monaco-1.jpg");
+  background-image: url("./img/monaco-1.jpg");
 }
 
 .price {
@@ -214,7 +214,7 @@ body {
   height: 90%;
   margin-bottom: 5%;
   background-repeat: no-repeat;
-  background-image: url("/img/designinterior.jpg");
+  background-image: url("./img/designinterior.jpg");
   text-align: center;
   align-items: center;
 }
